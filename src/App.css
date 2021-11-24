@@ -1,0 +1,47 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Italianno&display=swap');
+
+/* 
+font-family: 'David Libre', serif; for paragraph, button & others
+font-family: 'Italianno', cursive; for heading
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&display=swap');
+
+/* font-family: 'Oxygen Mono', monospace; */
+
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+/* font-family: 'Irish Grover', cursive; */
+
+/* bootstrap css */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  font-family: 'Oxygen Mono', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* font-family: 'Italianno', cursive; */
+  font-family: 'Irish Grover', cursive;
+}
+
+.heading-font {
+  font-family: 'Irish Grover', cursive !important;
+}
+
+.brand-bg {
+  background-color: #0078a6;
+}
+
+.brand-color {
+  color: #0078a6;
+}
+
+/* above are common css */
+
