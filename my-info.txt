@@ -6,3 +6,8 @@ https://immense-headland-61926.herokuapp.com/
 https://github.com/AnirbanAnu2000/classic-tourism-park-web2
 https://classic-tourism-park-6ab7e.web.app/
 
+Classic Tourism Park
+
+also after logged in a user can see some option/links Add Service, Manage Services, Manage Orders three in the home page service section.
+
+
